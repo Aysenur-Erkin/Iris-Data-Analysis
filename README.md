@@ -15,7 +15,7 @@ Bu proje, ünlü `iris` veri setinin R kullanarak temel istatistiksel analizini 
 Sepal Length Mean: 5.843333 
 Sepal Length Median: 5.8 
 Sepal Length Standard Deviation: 0.8280661 
-![example](sepallenght.png)
+![example](sepalLenght.png)
 
 Setosa Sepal Length Mean: 5.006 
 Versicolor Sepal Length Mean: 5.936 
