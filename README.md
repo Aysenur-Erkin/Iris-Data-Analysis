@@ -19,7 +19,11 @@ Sepal Length Median: 5.8
 
 
 Sepal Length Standard Deviation: 0.8280661 
-![example](sepalLength.png)
+
+<p align="center">
+  <img src="sepalLength.png" width="400" height="300" alt="Sepal Length">
+</p>
+
 
 
 
