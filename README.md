@@ -35,6 +35,9 @@ Versicolor Sepal Length Mean: 5.936
 
 
 Virginica Sepal Length Mean: 6.588
-![example](bySpecies.png)
+
+<p align="center">
+  <img src="bySpecies.png" width="400" height="300" alt="Example Image">
+</p>
 
 
